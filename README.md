@@ -1,4 +1,10 @@
 ### Hi there 👋
+# LEEJK
+![readme용](https://user-images.githubusercontent.com/91775368/165101080-3137860e-4d1f-4ff7-933c-01fe30240a21.png)
+
+<h2 aline="center">[Adafruit](https://user-images.githubusercontent.com/91775368/165102910-daa8b98e-0f53-4b12-ae46-4b8bd9c817f1.svg)Tech Stack[Adafruit](https://user-images.githubusercontent.com/91775368/165102910-daa8b98e-0f53-4b12-ae46-4b8bd9c817f1.svg)</h2>
+
+
 
 <!--
 **LSapee/LSapee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
