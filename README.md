@@ -13,10 +13,10 @@
 <img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/jquery-blue?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/MariaDB-blue?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=MariaDB&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL-skyblue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/postgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/AWS-blue?style=flat-square&logo=AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
 
 
