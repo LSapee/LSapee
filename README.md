@@ -24,10 +24,12 @@ Hello!
 <p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/dart-blue?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
 
 <!--
