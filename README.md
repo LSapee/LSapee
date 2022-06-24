@@ -34,18 +34,18 @@ Hello!
 
 <h3 align="center">studying algorithm other</h3>
 <p>
-  Stack
-  Queue
-  Dequeue
-  Hash
-  Binary Search
-  Sorting
-  Recursion
-  Back Tracking
-  BFS
-  DFS
-  DP
-  Grid
+  Stack<br>
+  Queue<br>
+  Dequeue<br>
+  Hash<br>
+  Binary Search<br>
+  Sorting<br>
+  Recursion<br>
+  Back Tracking<br>
+  BFS<br>
+  DFS<br>
+  DP<br>
+  Grid<br>
   Graph
 </p>
 <!--
