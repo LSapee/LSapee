@@ -33,7 +33,7 @@ Hello!
 </p>
 
 <h3 align="center">studying algorithm other</h3>
-<p>
+<p align="center">
   Stack<br>
   Queue<br>
   Dequeue<br>
