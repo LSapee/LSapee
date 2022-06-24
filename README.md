@@ -32,7 +32,7 @@ Hello!
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>
 
-<h3 align="center">I'm </h3>
+<h3 align="center">studying algorithm other</h3>
 <p>
 
 </p>
