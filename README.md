@@ -34,19 +34,19 @@ Hello!
 
 <h3 align="center">studying algorithm other</h3>
 <p align="center">
-  Stack<br>
-  Queue<br>
-  Dequeue<br>
-  Hash<br>
-  Binary Search<br>
-  Sorting<br>
-  Recursion<br>
-  Back Tracking<br>
-  BFS<br>
-  DFS<br>
-  DP<br>
-  Grid<br>
-  Graph
+  <b>Stack<b/><br>
+  <b>Queue<b/><br>
+  <b>Dequeue<b/><br>
+  <b>Hash<b/><br>
+  <b>Binary Search<b/><br>
+  <b>Sorting<b/><br>
+  <b>Recursion<b/><br>
+  <b>Back Tracking<b/><br>
+  <b>BFS<b/><br>
+  <b>DFS<b/><br>
+  <b>DP<b/><br>
+  <b>Grid<b/><br>
+  <b>Graph<b/>
 </p>
 <!--
 **LSapee/LSapee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
