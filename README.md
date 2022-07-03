@@ -1,7 +1,4 @@
 ![readme용](https://user-images.githubusercontent.com/91775368/165101080-3137860e-4d1f-4ff7-933c-01fe30240a21.png)
-
-Hello!
-
 <h2 align="center">Tech Stack</h2>
 <h3 align="center">I've used at least once</h3>
 <p align="center">
@@ -38,7 +35,7 @@ Hello!
   <b>Stack<b/><br>
   <b>Queue<b/><br>
   <b>Dequeue<b/><br>
-  <b>Hash<b/><br>
+  <b>Hash<b/> 07.03<br>
   <b>Binary Search<b/><br>
   <b>Sorting<b/><br>
   <b>Recursion<b/><br>
