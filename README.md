@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </p>
 
 <h3 align="center">studying algorithm other</h3>
