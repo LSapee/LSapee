@@ -2,19 +2,14 @@
 <h2 align="center">Tech Stack</h2>
 <h3 align="center">I've used at least once</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Go-blue?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/dart-blue?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/jquery-blue?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=MariaDB&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-skyblue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/postgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
 <h3 align="center">I'm studying now</h3>
@@ -26,7 +21,7 @@
 <img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
 </p>
 
 <h3 align="center">studying algorithm other</h3>
