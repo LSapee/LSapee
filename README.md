@@ -10,13 +10,10 @@
 </p>
 <h3 align="center">I'm studying now</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/dart-blue?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
-
 </p>
 
 <h3 align="center">studying algorithm other</h3>
