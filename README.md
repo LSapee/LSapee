@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Go-blue?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-skyblue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
@@ -17,7 +16,15 @@
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
 
-<h3 align="center">studying algorithm other</h3>
+
+
+<h3 align="center">studying algorithm and data structure</h3>
+<h4 align="center">Stack</h4>
+<h4 align="center">Queue</h4>
+<h4 align="center">Deque</h4>
+<h4 align="center">LinkedList</h4>
+<h4 align="center">BFS</h4>
+
 
 <!--
 **LSapee/LSapee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
