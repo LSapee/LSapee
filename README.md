@@ -24,7 +24,8 @@
 <h4 align="center">Deque</h4>
 <h4 align="center">LinkedList</h4>
 <h4 align="center">BFS</h4>
-
+<h4 align="center">Sorting</h4>
+<h4 align="center">DP</h4>
 
 <!--
 **LSapee/LSapee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
