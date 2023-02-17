@@ -29,8 +29,8 @@
 <br/>
 <br/>
 
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/91775368/219571477-4647eb98-cae0-4e15-8458-3ebb268c01fe.png)
-![aws-certified-developer-associate](https://user-images.githubusercontent.com/91775368/219571487-f39e86cd-0b89-4dca-8ffe-52e0ff9d8818.png)
+<!-- ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/91775368/219571477-4647eb98-cae0-4e15-8458-3ebb268c01fe.png)
+![aws-certified-developer-associate](https://user-images.githubusercontent.com/91775368/219571487-f39e86cd-0b89-4dca-8ffe-52e0ff9d8818.png) -->
 
 <!--
 **LSapee/LSapee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
