@@ -4,7 +4,6 @@
 <h3 align="center">I've used at least once</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Go-blue?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-skyblue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
@@ -12,7 +11,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/flutter-blue?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
 
