@@ -17,9 +17,8 @@
 </p>
 <h3 align="center">I'm studying now</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
