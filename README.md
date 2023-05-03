@@ -42,7 +42,7 @@
 
 ![snake gif](https://github.com/Lsapee/Lsapee/blob/output/github-contribution-grid-snake.svg)
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSapee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSapee&show_icons=true&theme=tokyonight)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkvl94)](https://solved.ac/profile/tkvl94)
 
 
