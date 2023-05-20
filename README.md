@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
 
-<h3 align="center">studying algorithm and data structure with C++</h3>
 <h3 align="center">studying serverless with aws Lambda Nodejs</h3>
 
 <div align="center">
