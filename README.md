@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
 </p>
 
-<h3 align="center">studying serverless with aws Lambda Nodejs</h3>
-
+<!-- <h3 align="center">studying serverless with aws Lambda Nodejs</h3> -->
+<h3> 2023.06.12~2023.06.18 잠시 휴식</h3>
 <div align="center">
 <h1>certificate</h1>
 
