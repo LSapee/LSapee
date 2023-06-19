@@ -25,7 +25,6 @@
 </p>
 
 <!-- <h3 align="center">studying serverless with aws Lambda Nodejs</h3> -->
-<h3> 2023.06.12~2023.06.18 잠시 휴식</h3>
 <div align="center">
 <h1>certificate</h1>
 
