@@ -1,60 +1,71 @@
-<h2 align="center">Tech Stack</h2>
-<h3 align="center">I've used at least once</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-skyblue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/vue-FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/></a>&nbsp
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
+### About Me:
+작성 예정
+
+### Algorithms : 
+- [LeetCode Profile](https://leetcode.com/dlworhks94/)
+- [boj Profile](https://www.acmicpc.net/user/tkvl94)
+
+### Working on: 🚀
+- [Algorithms Repo](https://github.com/LSapee/AlgorithmCPP)
+- Learning : [Go BlockChain](https://github.com/LSapee/potatocoin)
+- [CrawlingProject](https://github.com/LSapee/find-job)
+
+## Languages and Tools
+<div>
+
+### Languages:
+| C++                                                                                                                                            | GO                                                                                                                                                               | JS                                                                                                                                                               | TS                                                                                                                                                    | Python                                                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPP"  alt="CPP" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="55" height="55"/> |
+
+### Tools:
+| CLion                                                                                                                                       | GoLand                                                                                                                                                    | WebStorm                                                                                                                                         | PyCharm                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion"  alt="CLion" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" title="GoLand"  alt="GoLand" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm"  alt="Webstorm" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm"  alt="PyCharm" width="55" height="55"/> |
+
+### Frameworks:
+| Express                                                                                                                                       | Nest                                                                                                                                              | Flask                                                                                                                                            |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express"  alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="nestjs"  alt="nestjs" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flask" width="55" height="55"/> |
 
 
+### DB & ORM:
 
-</p>
-<h3 align="center">I'm studying now</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonaws&logoColor=white"/></a>
-</p>
+| MySQL | Postgres                                                                                                                                                     | SQLite | MongoDB | Prisma | Sequelize |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Prostres" alt="Prostgres" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" title="Prisma" alt="Prisma" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="55" height="55"/>|
 
-<!-- <h3 align="center">studying serverless with aws Lambda Nodejs</h3> -->
-<div align="center">
-<h1>certificate</h1>
+### OS:
 
-|AWS <br/>Solution Architect|AWS <br/>Developer|
-|------|---|
+| Linux | Ubuntu |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+
+### Environments, Other:
+
+| nodejs | Git | Docker | AWS | 
+|----------|----------|----------|---|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>
+
+### certificate :
+
+|AWS <br/>Solution Architect|
+|------|
 |![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/91775368/219571477-4647eb98-cae0-4e15-8458-3ebb268c01fe.png)|![aws-certified-developer-associate](https://user-images.githubusercontent.com/91775368/219571487-f39e86cd-0b89-4dca-8ffe-52e0ff9d8818.png)|
 
 
+
+
 </div>
 
-<div align="center">
-<h1>GitHub stats</h1>
-<br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LSapee&show_icons=true&theme=tokyonight)
+### GitHub stats :
+
+<p>
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=lsapee&show_icons=true&theme=vision-friendly-dark">
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsapee&size_weight=0.0005&layout=compact&theme=vision-friendly-dark">
+</p>
+
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkvl94)](https://solved.ac/profile/tkvl94)
 
 
-</div>
-<!--
-**LSapee/LSapee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you starte
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
