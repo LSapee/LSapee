@@ -1,5 +1,6 @@
 ### About Me:
-작성 예정
+Hi 👋
+
 
 ### Algorithms : 
 - [LeetCode Profile](https://leetcode.com/dlworhks94/)
