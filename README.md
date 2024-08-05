@@ -1,5 +1,8 @@
 ### About Me:
-Hi 👋
+
+Hi There👋
+
+I am a Node.js backend developer.
 
 
 ### Algorithms : 
