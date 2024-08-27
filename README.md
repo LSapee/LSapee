@@ -1,5 +1,3 @@
-### About Me:
-
 Hi There👋
 
 I am a Node.js backend developer.
