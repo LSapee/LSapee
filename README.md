@@ -11,7 +11,7 @@ TodayLsapee = LastdayLsapee+1;
 ### Working on: 🚀
 - [Algorithms Repo](https://github.com/LSapee/AlgorithmCPP)
 - Learning : [Go BlockChain](https://github.com/LSapee/potatocoin)
-- [CrawlingProject](https://github.com/LSapee/find-job)
+- ~~[CrawlingProject](https://github.com/LSapee/find-job)~~
 
 ## Languages and Tools
 <div>
