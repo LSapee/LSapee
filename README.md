@@ -48,15 +48,6 @@ TodayLsapee = LastdayLsapee+1;
 |----------|----------|----------|---|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>
 
-### certificate :
-
-|AWS <br/>Solution Architect|
-|------|
-|![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/91775368/219571477-4647eb98-cae0-4e15-8458-3ebb268c01fe.png)|![aws-certified-developer-associate](https://user-images.githubusercontent.com/91775368/219571487-f39e86cd-0b89-4dca-8ffe-52e0ff9d8818.png)|
-
-
-
-
 </div>
 
 <!-- ### GitHub stats :
