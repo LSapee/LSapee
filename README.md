@@ -10,8 +10,6 @@ TodayLsapee = LastdayLsapee+1;
 
 ### Working on: 🚀
 - [Algorithms Repo](https://github.com/LSapee/AlgorithmCPP)
-- Learning : [Go BlockChain](https://github.com/LSapee/potatocoin)
-- ~~[CrawlingProject](https://github.com/LSapee/find-job)~~
 
 ## Languages and Tools
 <div>
@@ -61,14 +59,14 @@ TodayLsapee = LastdayLsapee+1;
 
 </div>
 
-### GitHub stats :
+<!-- ### GitHub stats :
 
-<p>
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=lsapee&show_icons=true&theme=vision-friendly-dark">
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsapee&size_weight=0.0005&layout=compact&theme=vision-friendly-dark">
-</p>
+// <p>
+// </p>
+-->
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/dlworhks94?theme=unicorn&font=Tenali%20Ramakrishna)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkvl94)](https://solved.ac/profile/tkvl94)
 
 
