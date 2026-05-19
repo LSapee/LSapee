@@ -11,6 +11,9 @@ TodayLsapee = LastdayLsapee+1;
 
 ### Working on: 🚀
 - [Algorithms Repo](https://github.com/LSapee/AlgorithmCPP)
+- [InvenClear](https://github.com/LSapee/invenClear)
+- [JobFilter](https://github.com/LSapee/jobFilter)
+- [Discord DB-BOT with GPT_API](https://github.com/LSapee/db-bot)
 
 ## Languages and Tools
 <div>
